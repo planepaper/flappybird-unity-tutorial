@@ -7,7 +7,7 @@ public class Pipes : MonoBehaviour
 
     private void Start()
     {
-        //make pipe fully destroyed with -1 translate
+        //make pipe fully destroyed with -1 translateg
         leftEdge = Camera.main.ScreenToWorldPoint(Vector3.zero).x - 1f;
     }
 
