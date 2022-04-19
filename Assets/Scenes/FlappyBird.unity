@@ -643,7 +643,7 @@ MonoBehaviour:
   prefab: {fileID: 7930372964066171396, guid: bcb0de122270222419b940878056f7e4, type: 3}
   spawnRate: 1
   minHeight: -1
-  maxHeight: 1
+  maxHeight: 2
 --- !u!4 &1172250313
 Transform:
   m_ObjectHideFlags: 0
